@@ -330,4 +330,4 @@ ASALocalRun/
 .mfractor/
 
 /Src/DataSample.Client/appsettings.local.json
-/Src/DataSample.DataAccessLayer/DataSample.Service/appsettings.local.json
+/Src/DataSample.Service/appsettings.local.json
